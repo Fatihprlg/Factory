@@ -1,0 +1,10 @@
+C:\Users\Fatih\source\repos\Factory190601040\Factory190601040\bin\Debug\Factory190601040.exe.config
+C:\Users\Fatih\source\repos\Factory190601040\Factory190601040\bin\Debug\Factory190601040.exe
+C:\Users\Fatih\source\repos\Factory190601040\Factory190601040\bin\Debug\Factory190601040.pdb
+C:\Users\Fatih\source\repos\Factory190601040\Factory190601040\obj\Debug\Factory190601040.csprojAssemblyReference.cache
+C:\Users\Fatih\source\repos\Factory190601040\Factory190601040\obj\Debug\Factory190601040.Form1.resources
+C:\Users\Fatih\source\repos\Factory190601040\Factory190601040\obj\Debug\Factory190601040.Properties.Resources.resources
+C:\Users\Fatih\source\repos\Factory190601040\Factory190601040\obj\Debug\Factory190601040.csproj.GenerateResource.cache
+C:\Users\Fatih\source\repos\Factory190601040\Factory190601040\obj\Debug\Factory190601040.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\source\repos\Factory190601040\Factory190601040\obj\Debug\Factory190601040.exe
+C:\Users\Fatih\source\repos\Factory190601040\Factory190601040\obj\Debug\Factory190601040.pdb
